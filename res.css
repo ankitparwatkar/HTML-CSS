@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: yellow;
+}
+
+.navbar ul{
+    display: none;
+}
+
+#check:checked~.navbar ul{
+    display: block;
+}
+
+@media screen and (max-width: 650px){
+    .navbar label{
+        display: block;
+    }
+}

@@ -1,0 +1,32 @@
+/* .container{ */
+    background-color: yellow;
+    margin-top: 150px;
+    height: 100vh;
+    border: 3px solid;
+}
+
+.child{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    /* position: relative;
+    top: 60px;
+    left: 90px; */
+    position: absolute;
+    top: 10px;
+/* } */
+
+.navbar{
+    display: flex;
+    background-color: lightblue;
+    align-items: center;
+    justify-content: space-around;
+    position: sticky;
+    top: 0px;
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}

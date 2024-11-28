@@ -1,0 +1,11 @@
+$bgcolor : yellow;
+$bgpadding : 90px;
+$font-color : blue;
+
+.head{
+    background-color: $bgcolor;
+    color: #ffffff;
+    padding: $bgpadding;
+    border: 3px solid blue;
+    color : $font-color;
+}

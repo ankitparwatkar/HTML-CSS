@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: blue;
+}
+.navbar ul {
+  display: flex;
+  gap: 30px;
+  color: white;
+  list-style: none;
+}
+.navbar h1 {
+  color: red;
+}
+
+.header {
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+
+.para {
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+
+.container {
+  background-color: yellow;
+  padding: 30px;
+}
+.container h1 {
+  color: blue;
+}
+.container p {
+  background-color: red;
+  padding: 20px;
+}/*# sourceMappingURL=second.css.map */

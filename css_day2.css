@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: red;
+    font-size: 100px;
+    font-family: Verdana;
+    font-style: italic;
+    text-shadow: -12px -24px 6px gray;
+    letter-spacing: 20px;
+}
+
+.para{
+    word-spacing: 30px;
+    line-height: 50px;
+}

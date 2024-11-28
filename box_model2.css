@@ -1,0 +1,18 @@
+.wapper{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+    margin-top: 150px;
+    box-shadow: 3px 4px 6px 8px blue;
+}
+.para{
+    background-color: bisque;
+    margin-top: 50px;
+    padding: 20px;
+    border-left: 8px solid blue ;
+    border-top-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+
+
+}

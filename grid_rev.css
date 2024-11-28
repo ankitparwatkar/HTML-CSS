@@ -1,0 +1,18 @@
+.parent{
+    height: 100vh;
+    background-color: yellow;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+
+.ch{
+    background-color: blue;
+    border: 2px solid;
+}
+
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}

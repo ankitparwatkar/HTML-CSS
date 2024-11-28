@@ -1,0 +1,25 @@
+.wrapper{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap-reverse;
+}
+
+.child{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border: 3px solid;
+}
+
+.ch1{
+    background-color: blue;
+}
+
+.ch2{
+    background-color: yellow;
+}
+
+.ch3{
+    background-color: orange;
+}

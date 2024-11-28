@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+
+    ul{
+        display: flex;
+        gap: 30px;
+        color: white;
+        list-style: none;
+    }
+
+    h1{
+       color: red; 
+       
+    }
+}

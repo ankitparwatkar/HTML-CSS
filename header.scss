@@ -1,0 +1,15 @@
+//mixin
+
+@mixin demo(){
+    background-color: red;
+    color: white;
+    padding: 20px;
+}
+
+.header{
+    @include demo();
+}
+
+.para{
+    @include demo()
+}

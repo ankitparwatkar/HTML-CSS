@@ -1,0 +1,19 @@
+.ch{
+    background-color: yellow;
+    border: 3px solid;
+}
+
+.container{
+    height: 100vh;
+    background-color: red;
+    display: grid;
+    grid-template-rows: repeat(3, auto);
+    /*grid-template-columns: 100px 300px;*/
+}
+
+.ch1{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+}

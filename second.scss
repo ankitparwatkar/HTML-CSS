@@ -1,0 +1,18 @@
+@import "_nav.scss";
+@import "header.scss";
+
+.container{
+    background-color: yellow;
+    padding: 30px;
+
+    h1{
+        color: blue;
+    }
+
+    p{
+        background-color: red;
+        padding: 20px;
+    }
+}
+
+
